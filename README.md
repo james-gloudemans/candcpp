@@ -3,6 +3,6 @@
 To compile:
 ```
 gcc -c source.c
-g++ -c header.cpp
+g++ -c func.cpp
 g++ source.o header.o -o executable_name
 ```
